@@ -1,0 +1,42 @@
+.bg {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 40px;
+}
+.image {
+  width: 500px;
+  margin-top: 110px;
+}
+.head {
+  color: #ffffff;
+  font-size: 60px;
+}
+.written-part-container {
+  padding-top: 80px;
+}
+.label {
+  color: #ffffff;
+}
+.input-box {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  border-radius: 5px;
+}
+
+.count {
+  background-color: #ffffff;
+  color: #219a6f;
+  padding: 5px;
+  margin-top: 20px;
+  width: 150px;
+  font-weight: bold;
+  border-radius: 10px;
+  text-align: center;
+}
